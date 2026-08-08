@@ -1,6 +1,11 @@
 -- ============================================================
--- STORED PROCEDURE: LOAD SILVER LAYER
--- PostgreSQL
+-- STORED PROCEDURE: LOAD SILVER LAYER (bronze >silver)
+
+
+
+--script purpose :This stored procedure performs the ETL (Extract,Transform, Load)  
+
+
 -- Bronze -> Silver
 -- ============================================================
 
